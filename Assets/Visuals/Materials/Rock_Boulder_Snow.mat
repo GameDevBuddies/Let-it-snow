@@ -169,7 +169,7 @@ Material:
     - _AlphaRemapMin: 0
     - _AlphaSrcBlend: 1
     - _Anisotropy: 0
-    - _Base_Normal_Strength: 2.3
+    - _Base_Normal_Strength: 1
     - _BlendMode: 0
     - _CoatMask: 0
     - _ConservativeDepthOffsetEnable: 0
@@ -200,7 +200,7 @@ Material:
     - _EnableGeometricSpecularAA: 0
     - _EnergyConservingSpecularColor: 1
     - _ExcludeFromTUAndAA: 0
-    - _Global_Weather_Effect: 1
+    - _Global_Weather_Effect: 0.9
     - _HeightAmplitude: 0.02
     - _HeightCenter: 0.5
     - _HeightMapParametrization: 0
@@ -239,8 +239,8 @@ Material:
     - _Smoothness: 0.5
     - _SmoothnessRemapMax: 1
     - _SmoothnessRemapMin: 0
-    - _Smoothness_Intensity: 1
-    - _Snow_Falloff: 15
+    - _Smoothness_Intensity: 0.35
+    - _Snow_Falloff: 0.01
     - _Snow_Influence_Min_Threshold: 0.95
     - _Snow_Normal_Strength: 1
     - _Snow_Smoothness: 0.2
@@ -279,7 +279,7 @@ Material:
     - _UVEmissive: 0
     - _UseEmissiveIntensity: 0
     - _UseShadowThreshold: 0
-    - _Wetness: 1
+    - _Wetness: 0
     - _Wetness_Smoothness: 0.95
     - _ZTestDepthEqualForOpaque: 3
     - _ZTestGBuffer: 4
